@@ -1,10 +1,9 @@
 {
-  "name": "Mario Kart 8",
-  "icon": "https://cdn2.steamgriddb.com/icon_thumb/ac1ad983e08ad3304a97e147f522747e.png",
+  "name": "New SUPER MARIO Bros. U + New SUPER LUIGI U",
+  "icon": "https://cdn2.steamgriddb.com/icon_thumb/6986bd1d4afaa6bb9b1fccb7cb46cd92.png",
   "titleIds": [
-    "000500001010EB00",
-    "000500001010EC00",
-    "000500001010ED00"
+    "000500001014B700",
+    "000500001014B800",
   ],
   "mods": [
     {
