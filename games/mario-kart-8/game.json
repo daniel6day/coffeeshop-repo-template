@@ -28,43 +28,26 @@
       "changelog": "1.0.0 - Initial release"
     },
     {
-      "id": "custom-music-pack",
-      "name": "Custom Music Pack",
+      "id": "kermit-mk8",
+      "name": "Kermit the Frog",
       "type": "mod",
-      "version": "2.1.0",
-      "author": "MusicModder",
-      "description": "Replaces all in-game music with custom tracks. Over 40 songs included.",
-      "thumbnail": "https://picsum.photos/seed/mk8music/400/225",
+      "version": "1.0.0",
+      "author": "Crashbandiboy2222",
+      "description": "Kermit the Frog joins Mario Kart 8! Including a little surprise over Metal Mario. The model is from Band-Aid Magic Vison. I'm not sure what that is or who exactly made the model. I did edit the textures though.",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/68a3a85c81fc9.jpg",
       "screenshots": [
-        "https://picsum.photos/seed/mk8musica/800/450",
-        "https://picsum.photos/seed/mk8musicb/800/450"
+        "https://images.gamebanana.com/img/ss/mods/68a3a87c96dec.jpg",
+        "https://images.gamebanana.com/img/ss/mods/68a3a87ca7b95.jpg",
+        "https://images.gamebanana.com/img/ss/mods/68a3a87c821f2.jpg",
+        "https://images.gamebanana.com/img/ss/mods/68a3a87c2bc3e.jpg",
+        "https://images.gamebanana.com/img/ss/mods/68a3a87c745d1.jpg"
       ],
-      "download": "https://github.com/timkicker/cupstore-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip",
+      "download": "https://github.com/daniel6day/coffeeshop-repo-template/releases/download/mod-files/kermit_d7c77.zip",
       "releaseDate": "2024-03-10",
-      "license": "CC BY-NC-SA",
-      "tags": ["music"],
-      "fileSize": 52428800,
-      "changelog": "2.1.0 - Added 10 new tracks\n2.0.0 - Full soundtrack replacement\n1.0.0 - Initial release"
-    },
-    {
-      "id": "retro-track-pack",
-      "name": "Retro Track Textures",
-      "type": "mod",
-      "version": "1.3.2",
-      "author": "RetroFan",
-      "description": "Gives all retro cups a classic low-poly aesthetic inspired by older Mario Kart titles.",
-      "thumbnail": "https://picsum.photos/seed/mk8retro/400/225",
-      "screenshots": [
-        "https://picsum.photos/seed/mk8retroa/800/450",
-        "https://picsum.photos/seed/mk8retrob/800/450",
-        "https://picsum.photos/seed/mk8retroc/800/450"
-      ],
-      "download": "https://github.com/timkicker/cupstore-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip",
-      "releaseDate": "2024-02-20",
-      "license": "CC BY",
-      "tags": ["course", "texture"],
-      "fileSize": 10485760,
-      "changelog": "1.3.2 - Fixed UV mapping on Koopa Troopa Beach\n1.3.0 - Added Rainbow Road retro style\n1.0.0 - Initial release"
+      "license": "CC BY-NC-ND",
+      "tags": ["skin"],
+      "fileSize": 3580000,
+      "changelog": "1.0.0 - Initial release"
     },
     {
       "id": "ultimate-bundle",
