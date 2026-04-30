@@ -8,26 +8,6 @@
   ],
   "mods": [
     {
-      "id": "dummydum-mod",
-      "name": "Dummy Mod",
-      "type": "mod",
-      "version": "1.0.0",
-      "author": "ExampleUser",
-      "description": "A simple example mod that demonstrates the basic structure of a CupStore mod entry.",
-      "thumbnail": "https://picsum.photos/seed/mk8mod1/400/225",
-      "screenshots": [
-        "https://picsum.photos/seed/mk8mod1a/800/450",
-        "https://picsum.photos/seed/mk8mod1b/800/450"
-      ],
-      "download": "https://github.com/timkicker/cupstore-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip",
-      "releaseDate": "2024-01-15",
-      "license": "CC BY-NC",
-      "tags": ["skin"],
-      "fileSize": 204800,
-      "requirements": [],
-      "changelog": "1.0.0 - Initial release"
-    },
-    {
       "id": "kermit-mk8",
       "name": "Kermit the Frog",
       "type": "mod",
@@ -68,6 +48,47 @@
       "tags": ["skin"],
       "fileSize": 1800000,
       "requirements": [],
+      "changelog": "1.0.0 - Initial release"
+    },
+    {
+     "id": "Kratos",
+      "name": "Kratos",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Gacsan & TrDankz",
+      "description": "Kratos Joins the race.\nReplaces Lakitu",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6893d1aab786a.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/684103db5719e.jpg",
+        "https://images.gamebanana.com/img/ss/mods/68410446448d1.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6841045957094.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6841046983569.jpg"
+      ],
+      "download": "https://github.com/daniel6day/coffeeshop-repo-template/releases/download/mod-files/kratos_over_dry_bowser.rar",
+      "releaseDate": "2025-06-05",
+      "license": "CC BY-NC-ND",
+      "tags": ["skin"],
+      "fileSize": 2500000,
+      "requirements": [],
+      "changelog": "1.0.0 - Initial release"
+    },
+    {
+      "id": "spamton",
+      "name": "Spamton G Spamton",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "BindyCot",
+      "description": "Hey every! Spamton G. Spamton joins the race! replaces Baby Luigi",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6158ae332b5b3.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6158ae411723e.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6158ae4945730.jpg"
+      ],
+      "download": "https://github.com/daniel6day/coffeeshop-repo-template/releases/download/mod-files/spamton.zip",
+      "releaseDate": "2021-10-02",
+      "license": "CC BY-NC-ND",
+      "tags": ["skin"],
+      "fileSize": 999000,
       "changelog": "1.0.0 - Initial release"
     },
     {
